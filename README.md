@@ -1,6 +1,8 @@
-#Email Engagement Reporting
+# Email Engagement Reporting
 
 ## Purpose
+
+I created this script to assist with automation of supplier engagement reporting for the New Zealand Health Digital Investment Plan (HDIP)'s delivery office, the Centre for Digital Modernisation of Health.
 
 `ENGAGEMENT_REPORT_SCRIPT.py` creates an Excel report from a local Microsoft Outlook Offline Data File (`.ost`). It is designed to identify email contacts and provide a detailed record of email interactions for one mailbox or a combination of mailboxes contained in the OST.
 
